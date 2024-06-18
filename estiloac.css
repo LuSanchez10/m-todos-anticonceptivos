@@ -1,0 +1,64 @@
+body{
+    background: url(IMG/FONDODG.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.cont{
+    display: flex;
+    flex-direction: column;
+}
+.botón{
+    background-color: #f52af8;
+    width: 250px;
+    border-radius: 10px;
+    border: 2px solid#f52af8 ;
+    padding: 15px 32px;
+    text-align: center;
+    color: #6f2dac;
+    font-size: 16px;
+    margin: 50px 25px;
+    cursor: pointer;
+}
+
+.botón2{
+    background-color: #f52af8;
+    width: 250px;
+    border-radius: 10px;
+    border: 2px solid#f52af8 ;
+    padding: 15px 32px;
+    text-align: center;
+    color: #6f2dac;
+    font-size: 16px;
+    margin: 50px 25px;
+    cursor: pointer;
+}
+
+.botón3{
+    background-color: #f52af8;
+    width: 250px;
+    border-radius: 10px;
+    border: 2px solid#f52af8 ;
+    padding: 15px 32px;
+    text-align: center;
+    color: #6f2dac;
+    font-size: 16px;
+    margin: 50px 25px;
+    cursor: pointer;
+}
+
+.botónR{
+    background-color: #f0c1f1;
+    border-radius: 10px;
+    border: 2px solid#f0c1f1 ;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    color: #6f2dac;
+    font-size: 16px;
+    margin: 50px 25px;
+    cursor: pointer;
+}
+.botónR:hover{
+    background-color: #e08cd8d3;
+}

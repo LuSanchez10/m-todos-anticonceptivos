@@ -1,0 +1,81 @@
+body{
+    background: #d381bacc;
+}
+
+img{
+    width: 30%;
+    height: 10%;
+}
+h1{
+    color: #fad8fa;
+}
+p{
+    color: rgb(221, 23, 139);
+}
+
+body{
+    background: url(IMG/FONDODG.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.texto1{
+    font-family: "Concert One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+.circulo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.cont{
+    display: flex;
+    flex-direction: row;
+}
+.botón{
+    background-color: #f0c1f1;
+    border-radius: 10px;
+    border: 2px solid#f0c1f1 ;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    color: #6f2dac;
+    font-size: 16px;
+    margin: 50px 25px;
+    cursor: pointer;
+}
+.botón:hover{
+    background-color: #e08cd8d3;
+}
+.botón2{
+    background-color: #f0c1f1;
+    border-radius: 10px;
+    border: 2px solid#f0c1f1 ;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    color: #6f2dac;
+    font-size: 16px;
+    margin: 50px 25px;
+    cursor: pointer;
+}
+.botón2:hover{
+    background-color: #e08cd8d3;
+}
+.botón3{
+    background-color: #f0c1f1;
+    border-radius: 10px;
+    border: 2px solid#f0c1f1 ;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    color: #6f2dac;
+    font-size: 16px;
+    margin: 50px 25px;
+    cursor: pointer;
+}
+.botón3:hover{
+    background-color: #e08cd8d3;
+}
